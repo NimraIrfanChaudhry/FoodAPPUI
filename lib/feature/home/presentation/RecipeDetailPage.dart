@@ -29,3 +29,4 @@ class RecipeDetailPage extends StatelessWidget {
     );
   }
 }
+
