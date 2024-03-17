@@ -21,7 +21,7 @@ class RecipeItem extends StatelessWidget {
             builder: (context) => RecipeDetailPage(recipe: recipe),
           ),
         );
-      },
+      },//this is new added
       child: SizedBox(
         height: 280,
         width: 220,
